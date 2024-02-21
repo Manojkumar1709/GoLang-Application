@@ -20,4 +20,4 @@ $ docker build --no-cache -t golang-app-image .
 $ docker run -d -p 5000:5000 golang-app-image
 ```
 
-Open `http://localhost:3000` and enjoy!
+Open `http://localhost:5000` and enjoy!
