@@ -9,7 +9,7 @@
 Clone it!
 
 ```
-$ git clone 
+$ git clone https://github.com/Manojkumar1709/GoLang-Application.git
 ```
 
 Go into the project directory and run the command:
