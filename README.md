@@ -10,6 +10,7 @@ Clone it!
 
 ```
 $ git clone https://github.com/Manojkumar1709/GoLang-Application.git
+$ go run main.go
 ```
 
 Go into the project directory and run the command:
